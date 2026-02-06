@@ -1,0 +1,14 @@
+/home/gerson/Documentos/C#/holas/holis/bin/Debug/net8.0/holis
+/home/gerson/Documentos/C#/holas/holis/bin/Debug/net8.0/holis.deps.json
+/home/gerson/Documentos/C#/holas/holis/bin/Debug/net8.0/holis.runtimeconfig.json
+/home/gerson/Documentos/C#/holas/holis/bin/Debug/net8.0/holis.dll
+/home/gerson/Documentos/C#/holas/holis/bin/Debug/net8.0/holis.pdb
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.AssemblyInfoInputs.cache
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.AssemblyInfo.cs
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.csproj.CoreCompileInputs.cache
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.dll
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/refint/holis.dll
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.pdb
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/holis.genruntimeconfig.cache
+/home/gerson/Documentos/C#/holas/holis/obj/Debug/net8.0/ref/holis.dll

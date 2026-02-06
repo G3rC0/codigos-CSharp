@@ -1,0 +1,14 @@
+/home/gerson/Documentos/C#/holas/ejercicio2/bin/Debug/net8.0/ejercicio2
+/home/gerson/Documentos/C#/holas/ejercicio2/bin/Debug/net8.0/ejercicio2.deps.json
+/home/gerson/Documentos/C#/holas/ejercicio2/bin/Debug/net8.0/ejercicio2.runtimeconfig.json
+/home/gerson/Documentos/C#/holas/ejercicio2/bin/Debug/net8.0/ejercicio2.dll
+/home/gerson/Documentos/C#/holas/ejercicio2/bin/Debug/net8.0/ejercicio2.pdb
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.AssemblyInfoInputs.cache
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.AssemblyInfo.cs
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.csproj.CoreCompileInputs.cache
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.dll
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/refint/ejercicio2.dll
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.pdb
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ejercicio2.genruntimeconfig.cache
+/home/gerson/Documentos/C#/holas/ejercicio2/obj/Debug/net8.0/ref/ejercicio2.dll
