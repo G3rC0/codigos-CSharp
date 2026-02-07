@@ -1,0 +1,15 @@
+/home/gerson/Documentos/C#/holas/generico2/bin/Debug/net8.0/generico2
+/home/gerson/Documentos/C#/holas/generico2/bin/Debug/net8.0/generico2.deps.json
+/home/gerson/Documentos/C#/holas/generico2/bin/Debug/net8.0/generico2.runtimeconfig.json
+/home/gerson/Documentos/C#/holas/generico2/bin/Debug/net8.0/generico2.dll
+/home/gerson/Documentos/C#/holas/generico2/bin/Debug/net8.0/generico2.pdb
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.AssemblyInfoInputs.cache
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.AssemblyInfo.cs
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.csproj.CoreCompileInputs.cache
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.sourcelink.json
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.dll
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/refint/generico2.dll
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.pdb
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/generico2.genruntimeconfig.cache
+/home/gerson/Documentos/C#/holas/generico2/obj/Debug/net8.0/ref/generico2.dll
